@@ -10,14 +10,14 @@ body, html {
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 3rem;
     color: #fd4a26;
 }
 
 #header-desc {
     color: none;
     background-color: #f7f7f7;
-    max-width: 30em;
+    max-width: fit-content;
     margin: auto;
 }
 
